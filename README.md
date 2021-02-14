@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Hello React
+
+#### This is a basic web app developed using react by following the tutorial at reactjs.org 
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
